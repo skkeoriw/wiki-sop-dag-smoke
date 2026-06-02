@@ -1,0 +1,21 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260602T103444",
+  "node_id": "youtube-fetch",
+  "run_id": "direct-1780396486",
+  "status": "done",
+  "mode": "blocking",
+  "needs": [],
+  "started_at": "2026-06-02T10:34:47Z",
+  "finished_at": "2026-06-02T10:34:49Z",
+  "inputs": {
+    "source_url": "context.source_url"
+  },
+  "outputs": {
+    "source_url": "context.source_url",
+    "metadata_file": "raw/youtube-metadata/{pipeline_id}.json"
+  },
+  "optional_inputs": {},
+  "extra": {},
+  "error": "",
+  "updated_at": "2026-06-02T10:34:49Z"
+}

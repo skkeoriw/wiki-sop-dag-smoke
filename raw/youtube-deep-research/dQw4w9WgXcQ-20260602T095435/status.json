@@ -1,0 +1,70 @@
+{
+  "id": "7875c2e2-5c63-48cc-a69e-41e4875fc104",
+  "youtube_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "video_id": null,
+  "status": "completed",
+  "audio_url": null,
+  "r2_key": null,
+  "model_used": "vertex:gemini-3.1-pro-preview",
+  "summary": "本视频是经典流行音乐《Never Gonna Give You Up》的完整版MV。歌词表达了男主角对伴侣深沉且坚定不移的承诺，誓言永远不会放弃、不会让她失望、也不会伤害她。通过真挚的情感表达和朗朗上口的旋律，传递了积极忠诚的爱情观。作为全球著名的网络迷因“瑞克摇”（Rickroll）的起源，该视频不仅具有极高的音乐欣赏价值，更在互联网流行文化中占据着不可替代的地位，至今仍广受全球网友的喜爱与传播。",
+  "key_points": [
+    "坚定不移的爱情承诺：男主誓言永远不会放弃和伤害对方",
+    "彼此心照不宣的默契：双方相识已久，内心都明白彼此的感情",
+    "经典洗脑的副歌旋律：“Never gonna give you up”反复吟唱，深入人心",
+    "互联网迷因文化符号：作为“Rickroll”恶作剧的核心素材，具有极高的网络知名度",
+    "积极向上的情感传递：通过欢快的节奏打破情感表达的羞涩，传递正能量"
+  ],
+  "titles": [
+    "刻进DNA的旋律！经典神曲《Never Gonna Give You Up》完整版",
+    "互联网最强防不胜防：带你重温“瑞克摇”万恶之源！",
+    "极致深情的告白：这首80年代金曲教你什么是真正的承诺"
+  ],
+  "description": "想要重温互联网最经典的音乐名场面吗？本视频为您带来Rick Astley的传世金曲《Never Gonna Give You Up》完整版MV。这首歌不仅是一首风靡80年代的流行舞曲，更是全球著名的网络迷因“瑞克摇”（Rickroll）的万恶之源。歌词中“Never gonna give you up, never gonna let you down”传递了对爱情最坚定、最真挚的承诺，旋律洗脑且充满正能量。无论你是来欣赏经典的复古音乐，还是不小心被朋友“套路”点进来的，这首充满活力的神曲都能让你忍不住跟着节奏摇摆。快来感受这首跨越时代的流行文化符号，体验最纯粹的音乐魅力与互联网快乐！记得分享给你的好朋友，给他们一个“惊喜”哦！",
+  "tags": "瑞克摇, Rickroll, 经典老歌, 流行音乐, 欧美金曲, 网络迷因",
+  "clip_suggestions": [
+    {
+      "start": "00:00:42",
+      "end": "00:01:17",
+      "reason": "涵盖了全曲最经典的副歌部分“Never gonna give you up”，是整首歌的灵魂与记忆点，非常适合作为短视频的高潮切片进行传播"
+    },
+    {
+      "start": "00:01:17",
+      "end": "00:01:58",
+      "reason": "从主歌的情感递进再次引入双重副歌洗脑循环，节奏感极强，适合用来制作带有反转或情感升华的卡点视频"
+    },
+    {
+      "start": "00:02:33",
+      "end": "00:03:31",
+      "reason": "包含了歌曲的桥段过渡以及最后连续的副歌大爆发，情绪达到最高潮，适合作为视频结尾的燃向混剪素材"
+    }
+  ],
+  "detected_lang": "en",
+  "translate_lang": "zh",
+  "tts_url": null,
+  "error": null,
+  "created_at": "2026-06-02 09:54:43",
+  "updated_at": "2026-06-02 09:56:00",
+  "chunks": [
+    {
+      "chunk_index": 0,
+      "start_sec": 0,
+      "r2_key": "audio/dQw4w9WgXcQ_chunk_000.mp4",
+      "url": "https://youtube-audio.hb67egcim4.workers.dev/file/audio/dQw4w9WgXcQ_chunk_000.mp4",
+      "status": "done",
+      "transcript_url": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/chunk/0",
+      "translated_url": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/chunk/0?translated=1"
+    }
+  ],
+  "files": {
+    "transcript_json": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript",
+    "transcript_txt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=txt",
+    "transcript_srt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=srt",
+    "transcript_vtt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=vtt",
+    "transcript_csv": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=csv",
+    "analysis_md": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=md",
+    "translated_json": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?translated=1",
+    "translated_srt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=srt&translated=1",
+    "translated_vtt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=vtt&translated=1",
+    "translated_txt": "https://youtube-research-workflow.hb67egcim4.workers.dev/job/7875c2e2-5c63-48cc-a69e-41e4875fc104/transcript?format=txt&translated=1"
+  }
+}

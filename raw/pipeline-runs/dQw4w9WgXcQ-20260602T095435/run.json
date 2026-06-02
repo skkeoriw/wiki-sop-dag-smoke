@@ -1,0 +1,18 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260602T095435",
+  "sop_id": "youtube-research-wiki",
+  "repo": "skkeoriw/wiki-sop-dag-smoke",
+  "status": "running",
+  "source_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+  "source_type": "youtube",
+  "nodes": {
+    "youtube-fetch": "done",
+    "notebooklm-research": "waiting",
+    "youtube-deep-research": "waiting",
+    "wiki-build": "waiting",
+    "tg-notify": "waiting",
+    "retry": "waiting"
+  },
+  "started_at": "2026-06-02T09:54:38Z",
+  "updated_at": "2026-06-02T09:54:40Z"
+}

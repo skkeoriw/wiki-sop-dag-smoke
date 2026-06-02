@@ -9,10 +9,10 @@
     "youtube-fetch": "done",
     "notebooklm-research": "done",
     "youtube-deep-research": "done",
-    "wiki-build": "waiting",
+    "wiki-build": "done",
     "tg-notify": "waiting",
     "retry": "waiting"
   },
-  "started_at": "2026-06-02T09:54:41Z",
-  "updated_at": "2026-06-02T09:56:18Z"
+  "started_at": "2026-06-02T09:56:19Z",
+  "updated_at": "2026-06-02T09:59:50Z"
 }

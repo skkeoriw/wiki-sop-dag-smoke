@@ -2,13 +2,13 @@
   "pipeline_id": "dQw4w9WgXcQ-20260602T095435",
   "node_id": "notebooklm-research",
   "run_id": "direct-notebooklm-research-1780394081",
-  "status": "running",
+  "status": "done",
   "mode": "blocking",
   "needs": [
     "youtube-fetch"
   ],
   "started_at": "2026-06-02T09:54:41Z",
-  "finished_at": "",
+  "finished_at": "2026-06-02T09:56:18Z",
   "inputs": {
     "source_url": "youtube-fetch.outputs.source_url",
     "metadata_file": "youtube-fetch.outputs.metadata_file"
@@ -22,5 +22,5 @@
     "started_by": "youtube-fetch"
   },
   "error": "",
-  "updated_at": "2026-06-02T09:54:42Z"
+  "updated_at": "2026-06-02T09:56:18Z"
 }

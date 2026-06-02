@@ -7,12 +7,12 @@
   "source_type": "youtube",
   "nodes": {
     "youtube-fetch": "done",
-    "notebooklm-research": "running",
+    "notebooklm-research": "done",
     "youtube-deep-research": "done",
     "wiki-build": "waiting",
     "tg-notify": "waiting",
     "retry": "waiting"
   },
   "started_at": "2026-06-02T09:54:41Z",
-  "updated_at": "2026-06-02T09:56:09Z"
+  "updated_at": "2026-06-02T09:56:18Z"
 }

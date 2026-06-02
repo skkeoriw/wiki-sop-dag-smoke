@@ -1,0 +1,24 @@
+{
+  "pipeline_id": "dQw4w9WgXcQ-20260602T103444",
+  "node_id": "tg-notify",
+  "run_id": "direct-wiki-build-1780396555",
+  "status": "running",
+  "mode": "blocking",
+  "needs": [
+    "wiki-build"
+  ],
+  "started_at": "2026-06-02T10:38:00Z",
+  "finished_at": "",
+  "inputs": {
+    "index": "wiki-build.outputs.index"
+  },
+  "outputs": {
+    "telegram_message": "logs/pipeline-runs/pipe-{run_id}.json"
+  },
+  "optional_inputs": {},
+  "extra": {
+    "note": "final summary stage"
+  },
+  "error": "",
+  "updated_at": "2026-06-02T10:38:01Z"
+}

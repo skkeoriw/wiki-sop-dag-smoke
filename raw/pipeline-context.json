@@ -47,5 +47,38 @@
     },
     "chunks_total": 1,
     "chunks_done": 1
+  },
+  "stage_c": {
+    "run_id": "direct-wiki-build-1780396555",
+    "start_time": "2026-06-02T10:35:55Z",
+    "end_time": "2026-06-02T10:37:58Z",
+    "duration_s": 122,
+    "llm_calls": 16,
+    "pages_created_total": 85,
+    "pages_new_this_run": 14,
+    "pages_updated_this_run": 0,
+    "file_paths": [
+      "wiki/concepts/主动发起沟通.md",
+      "wiki/concepts/六项绝不.md",
+      "wiki/concepts/原则框架.md",
+      "wiki/concepts/可量化的承诺.md",
+      "wiki/concepts/情感关系中的策略性.md",
+      "wiki/concepts/情感承诺.md",
+      "wiki/concepts/情感承诺体系.md",
+      "wiki/concepts/永不告别.md",
+      "wiki/concepts/永不四处游荡并抛弃对方.md",
+      "wiki/concepts/永不撒谎以致伤害.md",
+      "wiki/concepts/永不放弃.md",
+      "wiki/concepts/永不让你失望.md",
+      "wiki/concepts/永不让你流泪.md",
+      "wiki/sources/关于-rick-astley-never-gonna-give-you-up-情感承诺与行为准则的深度简报.md"
+    ],
+    "sources": 3,
+    "entities": 2,
+    "concepts": 80,
+    "comparisons": 0,
+    "prompt_tokens": 15368,
+    "completion_tokens": 23606,
+    "status": "success"
   }
 }

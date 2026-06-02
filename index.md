@@ -1,16 +1,44 @@
-# Wiki Index
-
-> YouTube 視頻研究知識圖譜。所有 wiki 页面按类型分类索引。
-> Last updated: — | Total pages: 0
+# YouTube Video Research Wiki
+Last updated: 2026-06-02
+Total pages: 33
 
 ## Sources
+- [[rick-astley-never-gonna-give-you-up-深度分析简报]]
 
 ## Entities
+- [[never-gonna-give-you-up]]
+- [[rick-astley]]
 
 ## Concepts
+- [[言行一致的信誉]]
+- [[责任感]]
+- [[定位差异化]]
+- [[稳定且可预测的忠诚]]
+- [[欺骗行为]]
+- [[全然的投入]]
+- [[博弈与理解]]
+- [[双重守候]]
+- [[规则共识]]
+- [[认可关系的长期价值]]
+- [[内心洞察]]
+- [[长期情感契约]]
+- [[不可动摇的可靠性]]
+- [[负面清单承诺]]
+- [[建立明确的预期]]
+- [[情感透明度]]
+- [[绝对忠诚]]
+- [[沟通障碍]]
+- [[诚实]]
+- [[克服羞涩心理]]
+- [[信任框架]]
+- [[人际关系中的透明度]]
+- [[关系持续性]]
+- [[契约基础]]
+- [[长期积淀]]
+- [[情感边界]]
+- [[消除不确定性]]
+- [[直面真相]]
+- [[打破僵局]]
+- [[情感安全]]
 
-## Comparisons
-
-## Overview
-
-## Queries
+## Mindmaps
